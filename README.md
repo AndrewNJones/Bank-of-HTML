@@ -1,2 +1,4 @@
 # Bank-of-HTML
-This is a simple webpage that utilizes the following HTML tools: unordered/ordered lists, tables, and attributes to change the appearance of text.
+
+What I Learned:
+This is a very simple webpage, and is my first project using HTML. This project has taught me the syntax of HTML, proper use of attributes to alter HTML regions, and introduced me to the most commonly-used tags of the language.
